@@ -45,3 +45,10 @@ This project aims to predict heart disease using various machine learning algori
 The project successfully applied multiple machine learning models to predict heart disease and evaluated their performance. The data preprocessing, feature scaling, and class balancing techniques contributed to the models' effectiveness.
 
 ---
+## Contact
+For questions or feedback, feel free to open an issue or reach out to [NASO7Y](https://github.com/NASO7Y).
+
+
+Email: ahmed.noshy2004@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/nos7y/)
